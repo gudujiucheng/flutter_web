@@ -22,7 +22,7 @@ class _TimerWidgetState extends ClockBaseState<TimerWidget> {
     return Text.rich(
       TextSpan(children: [
         TextSpan(
-            text: " 当前时间：",
+            text: " 北京时间：",
             style: TextStyle(
               height: 1.5,
             )),
